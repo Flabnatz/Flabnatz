@@ -64,20 +64,8 @@ My name is Jack, but you can call me Flabnatz!
 [![Clean Chemistry Inc. Informational Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fcleanchemi.com)](https://cleanchemi.com)
 
 </td></tr>
-<tr><td>Game.WordGuess</td><td>🔴</td><td>Game</td><td>
-
-
-[![Game.WordGuess](https://img.shields.io/readthedocs/Game.WordGuess?style=flat-square)](https://Game.WordGuess.readthedocs.io)
-[![GitHub Repo stars](https://img.shields.io/github/stars/flabnatz/Game.WordGuess?style=flat-square)](https://github.com/flabnatz/Game.WordGuess)
-
-</td></tr>
-<tr><td>AlphaWebsite</td><td>⚪️</td><td>Learning</td><td>
-
-
-[![AlphaWebsite](https://img.shields.io/readthedocs/AlphaWebsite?style=flat-square)](https://AlphaWebsite.readthedocs.io)
-[![GitHub Repo stars](https://img.shields.io/github/stars/flabnatz/AlphaWebsite?style=flat-square)](https://github.com/flabnatz/AlphaWebsite)
-
-</td></tr>
+<tr><td>Game.WordGuess</td><td>🔴</td><td>Game</td><td></td></tr>
+<tr><td>AlphaWebsite</td><td>⚪️</td><td>Learning</td><td></td></tr>
 
 </table>
 
@@ -87,6 +75,6 @@ My name is Jack, but you can call me Flabnatz!
 <!-- <div align="center"> -->
 ## Github stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=flabatz&show_icons=true&theme=default&hide_border=false&locale=en)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=flabnatz&show_icons=true&theme=default&hide_border=false&locale=en)
 
 ---
