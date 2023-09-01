@@ -4,13 +4,13 @@ My name is Jack, but you can call me Flabnatz!
 
 ## Find Me @
 
-<a href="https://github.com/flabnatz?tab=profile">
+<a href="https://github.com/flabnatz?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
 </a>
-<a href="https://www.linkedin.com/in/jack-olsen-192b90b3/">
+<a href="https://www.linkedin.com/in/jack-olsen-192b90b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?tab=followers?logo=github&style=for-the-badge" alt="GitHub Badge" />
 </a>
-<a href="https://stackoverflow.com/users/17500051/jack-olsen?tab=profile">
+<a href="https://stackoverflow.com/users/17500051/jack-olsen?tab=profile" target="_blank">
     <img src="https://img.shields.io/badge/stackoverflow-f48226.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stackoverflow Badge" />
 </a>
 
